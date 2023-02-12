@@ -1,4 +1,4 @@
-# VGChartz
+# VGChartz Scrapy Project
 
 This project is configured to be hosted on [Scrapy Cloud](https://www.zyte.com/scrapy-cloud/).  
 
